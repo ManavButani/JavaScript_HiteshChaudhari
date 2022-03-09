@@ -1,0 +1,8 @@
+this is keyword which refers to a gloabal context
+
+accessing this in first line of javascript (v8 enginee,other) gives empty set
+but in case of windows(through inspect) it will return something.
+
+for all regular function calls, this points to window object
+
+for object function it will return current properties of that object

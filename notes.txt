@@ -1,0 +1,8 @@
+context
+
+there is majorly two types of context.
+global context and executive context
+
+globl context capturing information everything all the time.
+this is windows object.
+it is bind with browser(localhost) and windows.
